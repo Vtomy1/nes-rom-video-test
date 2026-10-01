@@ -1,0 +1,6 @@
+{
+  "name": "NES ROM & Video Pipeline Studio",
+  "description": "Convert video and animations into authentic NES 2C02 graphics, generate compliant iNES and NES 2.0 ROM headers, inspect 2bpp CHR tile bitplanes, and export playable .nes cartridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
